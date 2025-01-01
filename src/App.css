@@ -1,0 +1,10 @@
+.darken{
+    backdrop-filter: brightness(50%);
+}
+.darken-2{
+    backdrop-filter: brightness(30%);
+}
+
+.slide-in{
+    animation-timeline: view();
+}
